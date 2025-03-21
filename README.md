@@ -14,3 +14,5 @@ Model Training: Utilized Logistic Regression due to its effectiveness in binary 
 Performance: Achieved approximately 96% accuracy, 97% precision, and 95% recall, making the model robust for identifying fraudulent transactions.
 
 Model Saving: Saved the trained model as a .pkl file for future deployment or inference.
+
+Dataset : https://drive.google.com/file/d/16HtwvSSmImW12qgWzc-B48eWxMCzHPzl/view?usp=sharing
